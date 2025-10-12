@@ -29,6 +29,6 @@ I just simply loves to code (yes I actually do).
 ---
 
 ###  Featured Projects
-- [**Chatter**](https://github.com/Muhammad-Qasim-Sajid/Chatter-A-Chat-App) — A **Next.js + TypeScript** web app where users can chat with each other in real time (similar to WhatsApp).
-- [**Portfolier**](https://github.com/Muhammad-Qasim-Sajid/Portfolier) — A **React + Tailwind CSS** platform that allows users to create and manage their own portfolios.
-- [**Finance Tracker**](https://github.com/Muhammad-Qasim-Sajid/A-Complete-Finance-Tracker-) — A **vanilla JavaScript** app for tracking income, expenses, and investments with detailed analytics.
+- [**Chatter**](https://github.com/Muhammad-Qasim-Sajid/Chatter-A-Chat-App) - A **Next.js + TypeScript** web app where users can chat with each other in real time (similar to WhatsApp).
+- [**Portfolier**](https://github.com/Muhammad-Qasim-Sajid/Portfolier) - A **React + Tailwind CSS** platform that allows users to create and manage their own portfolios.
+- [**Finance Tracker**](https://github.com/Muhammad-Qasim-Sajid/A-Complete-Finance-Tracker-) - A **vanilla JavaScript** app for tracking income, expenses, and investments with detailed analytics.
