@@ -8,7 +8,9 @@ I just simply loves to code (yes I actually do).
 ###  Skills and Technologies
 - **Languages:** TypeScript, JavaScript, HTML, CSS  
 - **Frameworks:** Next.js, React.js, Tailwind CSS  
-- **Libraries:** Redux Toolkit, React Hook Form  
+- **Libraries:** Redux Toolkit, React Hook Form
+- **Backend:** Next.js (API Routes), Appwrite (Authentication, Database), Clerk (Authentication)
+- **Database:** SQLite, Prisma 
 - **Tools:** Git, GitHub, Appwrite  
 - **Deployment:** Vercel, Netlify  
 
