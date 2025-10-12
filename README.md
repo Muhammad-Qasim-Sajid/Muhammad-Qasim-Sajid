@@ -5,7 +5,7 @@ I just simply loves to code (yes I actually do).
 
 ---
 
-###  What I Work With
+###  Skills and Technologies
 - **Languages:** TypeScript, JavaScript, HTML, CSS  
 - **Frameworks:** Next.js, React.js, Tailwind CSS  
 - **Libraries:** Redux Toolkit, React Hook Form  
